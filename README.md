@@ -1,32 +1,26 @@
-# aula-a-
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF - 8"
-        initial-scale-1.0>
-        <div>
-            <h1>programação - site teste Anny</h1>
-            <img class="esnupis" height="200px" src="esnupi-removebg-preview.png" 
-        </div>
+</head>
+<meta charset="UTF-8> <meta name="viewport" content="width=device, initial-scale=1.0">
+<link rel="shortcut icon" href="Low_Poly_Cat-removebg-preview.png" type="image/x icon">
+ 
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div> 
+        <h1>coffee</h1>
+        <img class="logo" height=100px src="download__3_-removebg-preview.png">
+    </div>
 
-    </head>
-    <body>
-        <p1>𐙚⋆°.⋆♡ linguagens de programação</p>
-        <p> ✦Java Script</p>
-        <p> ✦c++ </p>
-    </body>
-    <style> 
-     body{
-        background-color: azure;
-        
-     }
-     p1{
-        font-size: 30px;
-     }
-     h1{
-        font-size: 65px;
-        text-align: center;
-     }
+    <ul> 
+     <li><a href="contato.html"></a></li>
+    </ul>
 
-    </style>
+    <p><strong>𐙚⋆°.⋆♡ linguagens de programação</strong></p>
+    <ul>
+     <li> java </li>
+    </ul>
+    <img src="esnupi-removebg-preview.png"
+    <a href=""
+</body>
 </html>
