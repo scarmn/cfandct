@@ -24,3 +24,17 @@
     <a href=""
 </body>
 </html>
+
+
+body{
+    background-color: azure;
+ }
+ div{
+    background-color: rgb(190, 221, 223);
+    text-align: center;
+ }
+h1{
+    font-size: 90px;
+    display: inline;
+    margin-left: 20px;
+}
