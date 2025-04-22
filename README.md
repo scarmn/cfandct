@@ -1,59 +1,84 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="pt-br">
-</head>
-<meta charset="UTF-8> <meta name="viewport" content="width=device, initial-scale=1.0">
-<link rel="shortcut icon" href="download__4_-removebg-preview.png" type="image/x icon">
- <title>coffee</title>
- <link rel="stylesheet" href="style.css">
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-</head>
-<body>
-    <div> 
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Programação Front-End</title>
+        <link rel="shortcut icon" href="download__6_-removebg-preview.png" type="image/x-icon">
+        <link rel="preconnect" href="">
+     <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div>
+            <ul class="menu">
+                <li><a href="index.html">Pagina Inicial</a></li>
+                <li><a href="banner-compra.png">Loja</a></li>
+               <li><a href="contato.html">Contato</a></li>
+
+            </ul>
         <h1>coffee</h1>
-        <img class="logo" height=100px src="download__3_-removebg-preview.png">
-    </div>
-
-    <ul> 
-        <class=<menu>
-            <li><a href="contato.html"></a></li>
-        </menu>
-    </ul>
-
-    <p><strong>𐙚⋆°.⋆♡ linguagens de programação</strong></p>
-    <ul>
-     <li>C</li>
-     <li>C++</li>
-     <li>Java</li>
-     <li>JavaScript</li>
-     <li>Python</li>
-    </ul>
-    <img src="esnupi-removebg-preview.png">
-    <a href="https://github.com/scarmn" >github</a>
-</body>
+        <img class="logo" src="download__3_-removebg-preview.png" height="100px">
+</div>
+        <p><strong>𐙚⋆°.⋆♡ linguagens de programação</strong></p>
+        <p>exemplos</p>
+        <ul>
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+        <img windth="100px" src="download.gif">
+        <iframe></iframe>
+        <br>
+        <a href="https://google.com.br">Link do Zap </a>
+    </body>
 </html>
 
 
 
 
-body{
-    font-family: "Playfair Display", serif;
-    background-color: azure;
- }
- div{
-    background-color: rgb(190, 221, 223);
+
+div {
+    background-color:rgb(255, 255, 255);
     text-align: center;
- }
-h1{
-    font-size: 90px;
+}
+body {
+    background-color:azure;
+      font-family: "Roboto Mono", monospace;
+}
+h1 {
+    font-size: 70px;
     display: inline;
     margin-left: 20px;
 }
-li{
-   font-size: 17px;
+.logo {
+    width: 120px;
 }
+
 p{
-    font-size: 23px;
+    font: size 25px;
+    background-color:#fff;
+    color: #000;
 }
- 
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(255, 255, 255);
+}
+
+.menu a{
+text-decoration: none;
+font-size: 25px;
+color:black;
+font-size: 25px;
+font-weight: bold;
+line-height: 45px;
+}
+
+.menu a:hover{
+    color:azure
+}
+
