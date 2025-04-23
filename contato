@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+<html lang="pt-br">
+  <body>
+    <p><strong>fale conosco ☕︎</strong></p> 
+    <a href="https://github.com/scarmn">github
+    </body>
+
+        <style>
+            p{
+    font: size 500px;
+    background-color:azure;
+    color: #000;
+    text-align: center;
+}
+
+        </style>
