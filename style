@@ -1,9 +1,9 @@
 div {
-    background-color:rgb(255, 255, 255);
+    background-color:azure;
     text-align: center;
 }
 body {
-    background-color:azure;
+    background-color:#fff;
       font-family: "Roboto Mono", monospace;
 }
 h1 {
@@ -17,7 +17,7 @@ h1 {
 
 p{
     font: size 25px;
-    background-color:#fff;
+    background-color:azure;
     color: #000;
 }
 
@@ -25,7 +25,7 @@ p{
     list-style: none;
     display: flex;
     justify-content: space-between;
-    background-color:rgb(255, 255, 255);
+    background-color:azure;
 }
 
 .menu a{
@@ -39,4 +39,30 @@ line-height: 45px;
 
 .menu a:hover{
     color:azure
+}
+
+ul{
+    font: size 25px;
+    background-color:azure;
+    color: #000;
+}
+
+ul{
+    font: size 25px;
+    background-color:azure;
+    color: #000;
+    list-style-type: disc;
+    padding: 0 20px;
+    list-style: none;
+}
+
+.container{
+    background-color:azure;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+audio{
+    background-color: azure;
 }
