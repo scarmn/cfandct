@@ -11,16 +11,16 @@
     <body>
         <div>
             <ul class="menu">
-                <li><a href="index.html">Pagina Inicial</a></li>
-                <li><a href="banner-compra.png">Loja</a></li>
+                <li><a href="coffee&cats.html">Pagina Inicial</a></li>
+                <li><a href="loja.html">Loja</a></li>
                <li><a href="contato.html">Contato</a></li>
+            
 
             </ul>
-        <h1>coffee</h1>
-        <img class="logo" src="download__3_-removebg-preview.png" height="100px">
+        <h1>coffee & cats</h1>
+        <img class="logo" src="download__7_-removebg-preview.png" height="100px">
 </div>
         <p><strong>𐙚⋆°.⋆♡ linguagens de programação</strong></p>
-        <p>exemplos</p>
         <ul>
             <li>C</li>
             <li>C++</li>
@@ -28,10 +28,33 @@
             <li>JavaScript</li>
             <li>Python</li>
         </ul>
-        <img windth="100px" src="download.gif">
-        <iframe></iframe>
+        <audio controls loop>
+            <source src="05  A Peaceful Morning (NANA 707 Soundtracks).mp3">
+           </audio>
+        <img windth="50px" src="download.gif" height="450px">
+        <div class="container.">
+        <ul>
+            <li>ᯓᡣ𐭩cardapios</li>
+            <li>café gelado:R$15,00</li>
+            <li>expresso:R$10,00</li>
+            <li>bolo de sua preferência:R$17,00</li>
+            <li>brincar com os gatos(por hora):R$:20,00</li>
+            <li>°‧🫧⋆.ೃ࿔*:･</li>
+            <iframe src="https://www.youtube.com/watch?v=vvThzcBfnyc"></iframe>
+        </ul>
+    </div>
         <br>
-        <a href="https://google.com.br">Link do Zap </a>
+
+        <iframe
+          src="https://www.google.com/maps/place/Palladium+Shopping+Center+Ponta+Grossa/@-25.094676,-50.1545932,17z/data=!3m2!4b1!5s0x94e81a4f4552d58d:0x77fc3b908a047a29!4m6!3m5!1s0x94e81a45d98b7591:0xb232179c3f49f94e!8m2!3d-25.094676!4d-50.1520183!16s%2Fg%2F12vswhr6y?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D"
+          width="600"
+          height="450"
+          style="border: 0;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+
+        <a href="https://www.youtube.com/watch?v=J7q3-EdIkmg">Link do Zap </a> <img windth="50px" src="a_k_i__1_-removebg-preview.png" height="150px">
     </body>
 </html>
-
