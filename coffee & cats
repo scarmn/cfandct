@@ -3,35 +3,28 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Programação Front-End</title>
-        <link rel="shortcut icon" href="download__6_-removebg-preview.png" type="image/x-icon">
+        <title>coffee & cats</title>
+        <link rel="shortcut icon" href="imagens/download__4_-removebg-preview.png" type="image/x-icon">
         <link rel="preconnect" href="">
      <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div>
             <ul class="menu">
-                <li><a href="coffee&cats.html">Pagina Inicial</a></li>
-                <li><a href="loja.html">Loja</a></li>
-               <li><a href="contato.html">Contato</a></li>
+                <li><a href="coffee&cats.html">pagina inicial</a></li>
+                <li><a href="produtos.html">loja</a></li>
+               <li><a href="contato.html">contato</a></li>
             
 
             </ul>
         <h1>coffee & cats</h1>
-        <img class="logo" src="download__7_-removebg-preview.png" height="100px">
+        <img class="logo" src="imagens/download__3_-removebg-preview.png" height="100px">
 </div>
-        <p><strong>𐙚⋆°.⋆♡ linguagens de programação</strong></p>
-        <ul>
-            <li>C</li>
-            <li>C++</li>
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-        </ul>
+        <p><strong>𐙚⋆°.⋆♡ bem vindo</strong></p>
         <audio controls loop>
             <source src="05  A Peaceful Morning (NANA 707 Soundtracks).mp3">
            </audio>
-        <img windth="50px" src="download.gif" height="450px">
+        <img windth="50px" src="imagens/download.gif" height="450px">
         <div class="container.">
         <ul>
             <li>ᯓᡣ𐭩mais pedidos</li>
@@ -40,13 +33,13 @@
             <li>bolo de sua preferência:R$17,00</li>
             <li>brincar com os gatos(por hora):R$:20,00</li>
             <li>°‧🫧⋆.ೃ࿔*:･</li>
-            <iframe src="https://www.youtube.com/watch?v=vvThzcBfnyc"></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/UxLBYEurk6I?si=iVPtpoGK5Jawx0y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
     </div>
         <br>
 
         <iframe
-          src="https://www.google.com/maps/place/Palladium+Shopping+Center+Ponta+Grossa/@-25.094676,-50.1545932,17z/data=!3m2!4b1!5s0x94e81a4f4552d58d:0x77fc3b908a047a29!4m6!3m5!1s0x94e81a45d98b7591:0xb232179c3f49f94e!8m2!3d-25.094676!4d-50.1520183!16s%2Fg%2F12vswhr6y?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.2123805232727!2d-50.15459322374342!3d-25.094671119710096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a45d98b7591%3A0xb232179c3f49f94e!2sPalladium%20Shopping%20Center%20Ponta%20Grossa!5e0!3m2!1spt-BR!2sbr!4v1746537494893!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
           width="600"
           height="450"
           style="border: 0;"
@@ -55,6 +48,6 @@
           referrerpolicy="no-referrer-when-downgrade">
         </iframe>
 
-        <a href="https://www.youtube.com/watch?v=J7q3-EdIkmg">Link do Zap </a> <img windth="50px" src="a_k_i__1_-removebg-preview.png" height="150px">
+        <a href="https://www.youtube.com/watch?v=J7q3-EdIkmg">Link do Zap </a> <img windth="50px" src="imagens/esnupi-removebg-preview.png" height="150px">
     </body>
 </html>
