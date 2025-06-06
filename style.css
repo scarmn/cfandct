@@ -6,26 +6,46 @@
 }
 
 .cabecalho {
-    background-color: var(--cor-principal) ;
+    background-color: var(--cor-destaque) ;
+    text-align: center;
+    font: size 70px;;
+}
+
+h1 {
+    font-size: 70px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.logo {
+  display: inline-flex;
 }
 
 .menu >ul{
     background-color: var(--cor-destaque);
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    list-style: none;
 }
 
 .menu_item >a{
-    color: #000;
-    text-decoration: none;
-    font-size: 1.5em;
-    font-weight: bold;
-    line-height: 2em;
-    font-variant: small-caps;
-    list-style: none;
+text-decoration: none;
+font-size: 25px;
+color:black;
+font-size: 25px;
+font-weight: bold;
+line-height: 45px;
+font-variant: small-caps;
+list-style: none;
 }
 
     .menu_item > a:hover{
         color:var(--cor-destaque)
+    }
+
+    p{
+        text-align: center;
+        font-size: 25px;
     }
