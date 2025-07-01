@@ -82,7 +82,7 @@ list-style: none;
         color: black;
       }
 
-      .carrinho {
+      .comprar {
         text-decoration: none;
         font-size: 1.2em;
         font-weight: bold;
@@ -93,4 +93,8 @@ list-style: none;
       .topicos {
         font-size: 25px;
         text-align: left;
+      }
+
+      .chao {
+        background-color:var(--cor-destaque) ;
       }
