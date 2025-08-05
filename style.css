@@ -98,3 +98,17 @@ list-style: none;
       .chao {
         background-color:var(--cor-destaque) ;
       }
+
+.formulario {
+        background-color: var(--cor-destaque);
+        align-items: flex-start;
+        width: 300px;
+        padding: 20px;
+        border: 1px solid var(--cor-destaque);
+        border-radius: 8px;
+        margin: 50px auto;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        list-style: none;
+        display: block;
+
+      }
