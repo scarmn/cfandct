@@ -1,0 +1,14 @@
+:root{
+    --cor-principal: #fff;
+    --cor-secundaria: #f0ffff;
+    --cor-destaque: #f0ffff;
+
+}
+
+.menu >ul{
+    background-color: var(--cor-destaque);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
